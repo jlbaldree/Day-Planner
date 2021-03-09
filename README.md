@@ -18,7 +18,7 @@ This project is a simple dayplanner that allows a user to track their day in hou
     
 In order to use the app, you'll need to save the js, css and html files locally. Open the html file in a browser and simply add items to the hourly boxes by typing in the boxes. Click the save button next to the hour in order to save the entry to local storage.
 
-![image](assets/screenshot.png)
+![image](assets/screenshot.PNG)
 
     
 ## Contributing
@@ -28,7 +28,7 @@ Jonathan Baldree
 
 ## License
     
-Licensed under the ![Boost](assets/licenses/Boost.txt) License.
+Licensed under the ![Boost](LICENSE) License.
 
 ---
     
